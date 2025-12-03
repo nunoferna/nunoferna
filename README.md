@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Nuno Fernandes - LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nuno-nof-fernandes/) &nbsp;
+[![Nuno Fernandes - LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nunoferna/) &nbsp;
 [![Nuno Fernandes - Email](https://skillicons.dev/icons?i=gmail)](mailto:nuno.o.fernandes@outlook.pt)
 
 </div>
@@ -19,7 +19,7 @@ I specialize in **Full-stack Development** and have experience across a range of
 - **Databases**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 ### 📊 GitHub Stats
-![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nof03&show_icons=true&theme=chartreuse-dark&hide=stars,contribs&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nof03&layout=compact&theme=chartreuse-dark)
+![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunoferna&show_icons=true&theme=chartreuse-dark&hide=stars,contribs&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoferna&layout=compact&theme=chartreuse-dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=nof03&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nunoferna&style=for-the-badge)
