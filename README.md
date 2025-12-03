@@ -22,4 +22,4 @@ I specialize in **Full-stack Development** and have experience across a range of
 ![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunoferna&show_icons=true&theme=chartreuse-dark&hide=stars,contribs&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoferna&layout=compact&theme=chartreuse-dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=nunoferna&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nof03&style=for-the-badge)
