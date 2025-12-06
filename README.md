@@ -54,3 +54,6 @@ I specialize in **MLOps, Cloud & DevOps, and Full-Stack Engineering**, with prof
 
 ### 📊 GitHub Stats
 ![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunoferna&show_icons=true&theme=chartreuse-dark&hide=stars,contribs&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoferna&layout=compact&theme=chartreuse-dark)
+
+---
+![](https://komarev.com/ghpvc/?username=nof03&style=for-the-badge)
