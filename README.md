@@ -1,4 +1,4 @@
-![Banner.jpg](banner.jpg)
+<img width="2754" height="1536" alt="Gemini_Generated_Image_yu36pyu36pyu36py" src="https://github.com/user-attachments/assets/8f8c93b3-0b35-450a-a61c-61663c5fd6a0" />
 
 <div align="center">
 
@@ -7,9 +7,10 @@
 
 </div>
 
-I’m an **MLOps Researcher** at **Devoteam** and a **Software Engineering Master’s student** at the **University of Porto**. My current focus lies in architecting enterprise-grade frameworks, automating infrastructure, and building AI-driven solutions.
+I’m an **ML Platform Engineer** at **Devoteam** and a **Software Engineering Master’s student** at the **University of Porto**. My current focus lies in architecting enterprise-grade frameworks, automating infrastructure, and building AI-driven solutions.
 
 ### 👨‍💻 What I Do
+
 I specialize in **MLOps, Cloud & DevOps, and Full-Stack Engineering**, with professional experience delivering scalable systems.
 
 - **Languages**:  
@@ -53,7 +54,7 @@ I specialize in **MLOps, Cloud & DevOps, and Full-Stack Engineering**, with prof
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### 📊 GitHub Stats
-![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunoferna&show_icons=true&theme=chartreuse-dark&hide=stars,contribs&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoferna&layout=compact&theme=chartreuse-dark)
+![Stats](./profile/stats.svg)
 
 ---
 ![](https://komarev.com/ghpvc/?username=nof03&style=for-the-badge)
